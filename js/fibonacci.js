@@ -1,6 +1,6 @@
 function fibonacci(num) {
     // program to generate fibonacci series up to n terms
-
+    //
     // take input from the user
     const number = parseInt(prompt('Enter the number of terms: '));
     let a = 0, b = 1, c;
